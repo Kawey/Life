@@ -124,6 +124,7 @@ body {
 
 .options{
     display: flex;
+    margin-right: 64px;
 }
 
 .color-options {
@@ -164,7 +165,6 @@ body {
 }
 .fasad-options .img-gallery{
     grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
-    padding-right: 64px;
 }
 
 .img-gallery img{
